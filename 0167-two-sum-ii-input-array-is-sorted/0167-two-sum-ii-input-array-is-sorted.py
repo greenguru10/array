@@ -26,6 +26,12 @@ class Solution(object):
         # So this return is just for static analysis (won't be reached)
         return [-1, -1]
 
+    # ✅ Solution is correct and optimal
+    # 🕒 Time Complexity: O(n) - Single pass with two pointers
+    # 🧠 Space Complexity: O(1) - Constant extra space
+    # 🌟 This is the optimal approach for sorted arrays
+    # 📌 You can submit this solution as-is
+
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
 # Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
