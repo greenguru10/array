@@ -1,2 +1,2 @@
 # array
-Collection of LeetCode / GFG / Hackerrank questions
+Collection of LeetCode / GFG / Hackerrank questions.
